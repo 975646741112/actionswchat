@@ -7,6 +7,8 @@ import requests
 import token
 import os
 print('master commit')
+
+print('hot_fix')
 from sts.sts import Sts
 from rest_framework.views import APIView
 from rest_framework.response import Response
