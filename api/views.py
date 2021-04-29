@@ -2,6 +2,7 @@ import re
 import random
 import uuid
 import json
+import pathlib
 import os
 
 from sts.sts import Sts
