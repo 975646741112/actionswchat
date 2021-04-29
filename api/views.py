@@ -3,6 +3,7 @@ import random
 import uuid
 import json
 import pathlib
+import requests
 import os
 
 from sts.sts import Sts
